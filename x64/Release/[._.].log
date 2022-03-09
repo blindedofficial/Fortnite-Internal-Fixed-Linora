@@ -1,0 +1,142 @@
+﻿  Assembling NtUserSendInput.asm...
+  Assembling shell.asm...
+  custom_runtimes.cpp
+  dllmain.cpp
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(4,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\vector3d.h(147,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\vector3d.h(147,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\vector3d.h(147,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\vector3d.h(147,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(290,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(290,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(401,1): warning C4267: '=': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(667,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(667,127): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(667,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(672,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(672,115): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(672,157): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(672,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(735,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(791,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\lazyimporter.h(475,1): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(1003): message : see reference to function template instantiation 'decltype(auto) li::detail::lazy_function<69435095,BOOL (__cdecl *)(HANDLE,HMODULE,LPMODULEINFO,DWORD)>::operator ()<HANDLE,HMODULE,MODULEINFO*,size_t>(HANDLE &&,HMODULE &&,MODULEINFO *&&,size_t &&) const' being compiled
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(1148,1): warning C4267: '=': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\Loot.h(5,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\Loot.h(5,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(248,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(249,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(251,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(251,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(251,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(251,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(253,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(253,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(253,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(253,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(255,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(255,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(255,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(255,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(257,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(257,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(257,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(257,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(259,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(259,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(259,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(259,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(261,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(261,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(261,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(261,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(263,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(263,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(263,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(263,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(265,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(265,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(265,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(265,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(409,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(563,118): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(563,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(705,45): warning C4244: '=': conversion from 'float' to 'int32_t', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(745,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(745,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,29): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,37): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,47): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,47): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,56): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,56): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,72): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,72): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,89): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,89): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,102): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,102): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,116): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,116): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,128): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,128): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,141): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,141): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,152): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,152): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,164): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,164): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,177): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,177): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,191): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,191): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,203): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,203): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,216): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,216): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,228): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,228): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,241): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,241): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,259): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,259): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,278): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(761,278): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(899,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(915,94): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(915,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(915,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(915,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(963,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(1299,87): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(1431,20): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(1432,20): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(1673,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(1674,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  vector3d.cpp
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\vector3d.h(147,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\vector3d.h(147,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\vector3d.h(147,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\vector3d.h(147,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(389): warning C4172: returning address of local variable or temporary: sBuff
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(257): warning C4715: 'read<unsigned long>': not all control paths return a value
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(257): warning C4715: 'read<float>': not all control paths return a value
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(257): warning C4715: 'read<int>': not all control paths return a value
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(257): warning C4715: 'read<unsigned __int64>': not all control paths return a value
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(257): warning C4715: 'read<Vector3>': not all control paths return a value
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(257): warning C4715: 'read<FZiplinePawnState>': not all control paths return a value
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(724): warning C4715: 'SDK::Utils::CheckItemInScreen': not all control paths return a value
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\SDK.h(701): warning C4715: 'SDK::Utils::CheckInScreen': not all control paths return a value
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\Loot.h(79): warning C4715: 'LootESP': not all control paths return a value
+C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\dllmain.cpp(989): warning C4715: 'EntitiyLoop': not all control paths return a value
+  All 2830 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  [._.].vcxproj -> C:\Users\Paste\OneDrive\Desktop\Fortnite-Bulletp-Internal-Cheat-main\x64\Release\index.dll
