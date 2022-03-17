@@ -3,13 +3,11 @@ A working vehicle Bullettp internal, should be fully updated (not fully tested),
 
 Make sure project is set on Release X64 and DirectX11 sdk is installed, give star if you guys wants car teleport
 
-my old github got termed LMAO
-
 Added FOV Changer!
 
 # If i see you selling this, i make you famous (in a bad way)
 
-## Current working features:
+## Current features:
 
 > Aimbot
  - Memory Aimbot
