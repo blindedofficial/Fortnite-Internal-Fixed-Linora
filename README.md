@@ -34,6 +34,7 @@ Added FOV Changer!
  - Vehicle Boost (Speedhack)
  - FOV Changer
  - Player fly
+ - Others
 
 > Misc
 
